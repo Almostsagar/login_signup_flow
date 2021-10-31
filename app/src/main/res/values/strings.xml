@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">login_signup_flow</string>
+    <string name="app_name">E Learning</string>
+    <string name="todo">TODO</string>
+    <string name="proceed_further">Proceed Further</string>
+    <string name="text">For athletes, high altitude produces two contradictory effects on performance. For explosive events (sprints up to 400 metres, long jump, triple jump).</string>
+    <string name="landing_image">Landing Image</string>
+    <string name="create_account">Create Account</string>
+    <string name="signup_page_bg_content_description">Signup page\'s background</string>
+    <string name="email">Email</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="password">Password</string>
+    <string name="by_clicking_you_agree_to_our_terms_amp_conditions"><![CDATA[By clicking you agree to our Terms & Conditions.]]></string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signup_with_socials">-----------------Sign up with Socials-----------------</string>
+    <string name="google">Google</string>
+    <string name="loginTitle">Login</string>
+    <string name="login_btn">Log In</string>
+    <string name="don_t_have_an_account">don\'t have an account?</string>
 </resources>

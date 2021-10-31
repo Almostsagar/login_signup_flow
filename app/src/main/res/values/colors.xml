@@ -7,4 +7,18 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#ED2173</color>
+    <color name="colorPrimaryDark">#222934</color>
+    <color name="colorAccent">#ED2173</color>
+    <color name="Background">#F6FEFF</color>
+    <color name="UnactiveButton">#ACCCB9</color>
+    <color name="SearchHistoryBackground">#CEF4DD</color>
+    <color name="SearchHistoryText">#004C29</color>
+    <color name="NavBackground">#F6FFFA</color>
+    <color name="PageTitle">#3E4E59</color>
+    <color name="LoginButton">#056B7A</color>
+    <color name="TextFieldBorder">#06BBD6</color>
+    <color name="TextFieldText">#5B5B5B</color>
+    <color name="RatingStar">#FFDF00</color>
+    <color name="Warning">#CE1010</color>
 </resources>
